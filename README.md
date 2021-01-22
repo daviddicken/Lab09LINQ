@@ -1,6 +1,6 @@
 # Lab09LINQ
   
-Date: 1/21/2021
+Date: 1/21/2021  
 **Author**: David Dicken
 **Version**: 1.4.0 
 
