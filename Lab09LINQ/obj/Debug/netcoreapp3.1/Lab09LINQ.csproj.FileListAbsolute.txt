@@ -1,0 +1,15 @@
+C:\Users\David\codefellows\C#401\Lab09LINQ\Lab09LINQ\bin\Debug\netcoreapp3.1\Lab09LINQ.exe
+C:\Users\David\codefellows\C#401\Lab09LINQ\Lab09LINQ\bin\Debug\netcoreapp3.1\Lab09LINQ.deps.json
+C:\Users\David\codefellows\C#401\Lab09LINQ\Lab09LINQ\bin\Debug\netcoreapp3.1\Lab09LINQ.runtimeconfig.json
+C:\Users\David\codefellows\C#401\Lab09LINQ\Lab09LINQ\bin\Debug\netcoreapp3.1\Lab09LINQ.runtimeconfig.dev.json
+C:\Users\David\codefellows\C#401\Lab09LINQ\Lab09LINQ\bin\Debug\netcoreapp3.1\Lab09LINQ.dll
+C:\Users\David\codefellows\C#401\Lab09LINQ\Lab09LINQ\bin\Debug\netcoreapp3.1\Lab09LINQ.pdb
+C:\Users\David\codefellows\C#401\Lab09LINQ\Lab09LINQ\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\David\codefellows\C#401\Lab09LINQ\Lab09LINQ\obj\Debug\netcoreapp3.1\Lab09LINQ.csprojAssemblyReference.cache
+C:\Users\David\codefellows\C#401\Lab09LINQ\Lab09LINQ\obj\Debug\netcoreapp3.1\Lab09LINQ.AssemblyInfoInputs.cache
+C:\Users\David\codefellows\C#401\Lab09LINQ\Lab09LINQ\obj\Debug\netcoreapp3.1\Lab09LINQ.AssemblyInfo.cs
+C:\Users\David\codefellows\C#401\Lab09LINQ\Lab09LINQ\obj\Debug\netcoreapp3.1\Lab09LINQ.csproj.CoreCompileInputs.cache
+C:\Users\David\codefellows\C#401\Lab09LINQ\Lab09LINQ\obj\Debug\netcoreapp3.1\Lab09LINQ.csproj.CopyComplete
+C:\Users\David\codefellows\C#401\Lab09LINQ\Lab09LINQ\obj\Debug\netcoreapp3.1\Lab09LINQ.dll
+C:\Users\David\codefellows\C#401\Lab09LINQ\Lab09LINQ\obj\Debug\netcoreapp3.1\Lab09LINQ.pdb
+C:\Users\David\codefellows\C#401\Lab09LINQ\Lab09LINQ\obj\Debug\netcoreapp3.1\Lab09LINQ.genruntimeconfig.cache
